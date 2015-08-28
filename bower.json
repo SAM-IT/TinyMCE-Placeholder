@@ -1,0 +1,22 @@
+{
+  "name": "TinyMCE-Placeholder",
+  "version": "1.0.0",
+  "homepage": "https://github.com/SAM-IT/TinyMCE-Placeholder",
+  "authors": [
+    "Federico Isacchi",
+    "Sam Mousa (sam@mousa.nl) [packager]"
+  ],
+  "description": "A customizable placeholder plugin for TinyMCE4",
+  "main": [
+        "placeholder/plugin.js",
+        "placeholder/plugin.min.js"
+    ],
+  "keywords": [
+    "tinymce",
+    "placeholder"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
